@@ -16,8 +16,7 @@
   
 
   
-
-### 📈 my github stats
+<h3 align="center">📈 my github stats</h3>
     <div
       style="
         display: flex;
