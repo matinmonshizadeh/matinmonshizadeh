@@ -19,6 +19,9 @@
 <h3>📈 my github stats</h3>
     <div
       style="
+         display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
 
       "
     >
@@ -30,6 +33,7 @@
       <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
+        width="600"
       />
     </div>
 
