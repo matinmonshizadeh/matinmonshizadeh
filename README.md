@@ -12,8 +12,8 @@
 ### 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px" alt="matinmonshizadeh" />
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=gotham&border_radius=20px)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=gotham&border_radius=20px" alt="matinmonshizadeh" />
+  
   
 ### 🛠  Technologies and tools
  
