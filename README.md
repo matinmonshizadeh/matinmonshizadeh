@@ -30,11 +30,12 @@
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px"
         alt="matinmonshizadeh"
+        width="480"
       />
       <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
-        width="500"
+        width="480"
       />
     </div>
 
