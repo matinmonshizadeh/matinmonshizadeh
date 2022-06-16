@@ -24,7 +24,7 @@
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px"
         alt="matinmonshizadeh"
-        width="400"
+        width="410"
       />
       <img
         align="right"
@@ -34,9 +34,4 @@
     </div>
 
 
-  
-  
-  
-  
-### 🛠  Technologies and tools
  
