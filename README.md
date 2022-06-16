@@ -28,14 +28,13 @@
     >
       <img
         align="center"
-        src="[https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px)"
-        alt="AmirHosein-Gharaati"
+        src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px"
+        alt="matinmonshizadeh"
         width="400"
       />
       <img
         align="center"
-        src="[https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl](https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px)"
-        alt="AmirHosein-Gharaati"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
         width="400"
       />
     </div>
