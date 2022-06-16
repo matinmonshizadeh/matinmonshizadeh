@@ -16,7 +16,7 @@
   
 
   
-<h3 align="center">📈 my github stats</h3>
+<h3>📈 my github stats</h3>
     <div
       style="
         display: flex;
@@ -30,12 +30,10 @@
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px"
         alt="matinmonshizadeh"
-        width="400"
       />
       <img
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
-        width="400"
       />
     </div>
 
