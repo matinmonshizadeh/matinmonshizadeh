@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 
 📈 my github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px)
 
   
 
 
 ## 🛠  Technologies and tools
  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&border_radius=15px)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=radical)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=dark)=15px
