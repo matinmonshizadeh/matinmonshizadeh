@@ -19,11 +19,7 @@
 <h3>📈 my github stats</h3>
     <div
       style="
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-        align-items: center;
+
       "
     >
       <img
@@ -38,6 +34,8 @@
     </div>
 
 
+  
+  
   
   
 ### 🛠  Technologies and tools
