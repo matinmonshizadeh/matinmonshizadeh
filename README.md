@@ -9,9 +9,46 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 📈 my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px" alt="matinmonshizadeh" /> <p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=gotham&border_radius=20px" alt="matinmonshizadeh" />
+
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px" alt="matinmonshizadeh" /> <p align="right"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px" alt="matinmonshizadeh" />
   
+
+  
+
+### 📈 my github stats
+    <div
+      style="
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        align-items: center;
+      "
+    >
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px"
+        alt="matinmonshizadeh"
+      />
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
+        alt="AmirHosein-Gharaati"
+      />
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl"
+        width="400"
+      />
+      <img
+        align="center"
+        src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
+        alt="AmirHosein-Gharaati"
+        width="400"
+      />
+    </div>
 
   
   
