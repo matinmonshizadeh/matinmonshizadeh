@@ -13,7 +13,7 @@
     >
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&border_radius=20px"
+        src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&border_radius=20px&include_all_commits=true"
         alt="matinmonshizadeh"
         width="400"
       />
