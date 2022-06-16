@@ -28,24 +28,13 @@
     >
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en"
+        src="[https://github-readme-stats.vercel.app/api?username=AmirHosein-Gharaati&show_icons=true&theme=nightowl&locale=en](https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&theme=gotham&include_all_commits=true&border_radius=20px)"
         alt="AmirHosein-Gharaati"
         width="400"
       />
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl"
-        alt="AmirHosein-Gharaati"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHosein-Gharaati&layout=compact&hide_border=true&theme=nightowl"
-        width="400"
-      />
-      <img
-        align="center"
-        src="https://wakatime.com/share/@aly3n/d6968611-fd97-4c0d-8ba1-1fd7e69ba510.svg"
+        src="[https://github-readme-streak-stats.herokuapp.com/?user=AmirHosein-Gharaati&theme=nightowl](https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px)"
         alt="AmirHosein-Gharaati"
         width="400"
       />
