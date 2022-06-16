@@ -29,7 +29,7 @@
       <img
         align="right"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&langs_count=8&layout=compact&theme=gotham&border_radius=20px"
-        width="380"
+        width="390"
       />
     </div>
 
