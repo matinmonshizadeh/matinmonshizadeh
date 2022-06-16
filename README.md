@@ -18,8 +18,6 @@
   
 
 ### 📈 my github stats
-    
-<h3 align="center">Stats</h3>
     <div
       style="
         display: flex;
