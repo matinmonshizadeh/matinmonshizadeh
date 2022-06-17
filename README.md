@@ -1,10 +1,10 @@
 # Hey!! Great to see you here!👋
 
-* 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
+* 📖  
 
-* 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
+* 🧑🏻‍💻 
 
-* 💡 Always open to collaborating on projects and innovative/disruptive ideas. 
+* 💡  
 
 * 💻 Currently learning [Vue](https://vuejs.org/).
 
