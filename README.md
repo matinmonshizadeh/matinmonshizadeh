@@ -1,6 +1,4 @@
-# Hey!! Great to see you here!
-
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
+# Hey!! Great to see you here!👋
 
 * 📖 Pursuing my Bachelor's in Computer Science and Business Systems from [Bharati Vidyapeeth (DU) College of Engineering](https://bvucoepune.edu.in/). 
 
@@ -86,41 +84,40 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📕 Pinned Repositories
 
 <p align="center">
-<a href="https://github.com/Asmit2952/Asmit2952.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Asmit2952.github.io&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/Monster-Slayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Monster-Slayer&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/Open-Source-Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Open-Source-Programs&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/Tic-Tac-Toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Tic-Tac-Toe&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/Weather-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Weather-App&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/Simon-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Simon-Game&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/Web-accessibility-tester">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Web-accessibility-tester&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/Drum-Kit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Drum-Kit&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/MP3-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=MP3-Player&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/The-Dicee-Game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=The-Dicee-Game&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/CLI-passgen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=CLI-passgen&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/tindog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=tindog&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/URL-Shortener">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=URL-Shortener&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/cv2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=cv2&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/Asmit2952/Twitter-Dynamic-Header">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Asmit2952&repo=Twitter-Dynamic-Header&hide_border=true&theme=radical" />
+<a href="https://github.com/matinmonshizadeh/cv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=cv&hide_border=true&theme=gotham" />
 </a>
 
 </p>
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
 
 ---
 
