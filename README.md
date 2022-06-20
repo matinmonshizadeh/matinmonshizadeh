@@ -1,14 +1,14 @@
 # Hey!! Great to see you here!👋
 
-* 📖  
+* 📖 Computer Engineering Student at Shiraz University.
 
-* 🧑🏻‍💻 
+* 🧑🏻‍💻 My favorite programming languages are python and java.
 
-* 💡  
+* 💡 I like to try different technologies in computer science.  
 
 * 💻 Currently learning [Vue](https://vuejs.org/).
 
-When I am not coding, you'll find me lifting weights in the gym or at my desk sketching stuff. Find out more about me & feel free to connect with me here:
+When I am not coding, you'll find me lifting weights in the gym. Find out more about me & feel free to connect with me here:
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/matin-monshizadeh-b120b9220/">
