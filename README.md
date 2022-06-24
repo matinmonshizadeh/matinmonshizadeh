@@ -109,8 +109,8 @@ When I am not coding, you'll find me lifting weights in the gym. Find out more a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=tindog&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/matinmonshizadeh/cv2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=cv2&hide_border=true&theme=gotham" />
+<a href="https://github.com/matinmonshizadeh/x86-Assembler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=x86-Assembler&hide_border=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/matinmonshizadeh/Guessing-Game">
