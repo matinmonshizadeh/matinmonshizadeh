@@ -2,11 +2,11 @@
 
 * 📖 Computer Engineering Student at Shiraz University.
 
-* 🧑🏻‍💻 My favorite programming languages are python and java.
+* 🧑🏻‍💻 My favorite programming languages is python.
 
 * 💡 I like to try different technologies in computer science.  
 
-* 💻 Currently learning [Vue](https://vuejs.org/).
+* 💻 Currently learning Machine Learning.
 
 When I am not coding, you'll find me lifting weights in the gym. Find out more about me & feel free to connect with me here:
 
@@ -39,11 +39,12 @@ When I am not coding, you'll find me lifting weights in the gym. Find out more a
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🧑🏻‍💻 Tools & Platform
 
@@ -86,12 +87,29 @@ When I am not coding, you'll find me lifting weights in the gym. Find out more a
 ## 📕 Pinned Repositories
 
 <p align="center">
+
+<a href="https://github.com/matinmonshizadeh/Diabetes-Predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Diabetes-Predictor&hide_border=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/matinmonshizadeh/Image-Compression-Huffman-coding-technique">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Image-Compression-Huffman-coding-technique&hide_border=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/matinmonshizadeh/Sudoku-Solver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Sudoku-Solver&hide_border=true&theme=gotham" />
+</a>
+ 
 <a href="https://github.com/matinmonshizadeh/Monster-Slayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Monster-Slayer&hide_border=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/matinmonshizadeh/Tic-Tac-Toe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Tic-Tac-Toe&hide_border=true&theme=gotham" />
+</a>
+
+<a href="https://github.com/matinmonshizadeh/Smart-Home">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Smart-Home&hide_border=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/matinmonshizadeh/Simon-Game">
@@ -102,21 +120,17 @@ When I am not coding, you'll find me lifting weights in the gym. Find out more a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Drum-Kit&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/matinmonshizadeh/The-Dicee-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=The-Dicee-Game&hide_border=true&theme=gotham" />
+<a href="https://github.com/matinmonshizadeh/Simple-Online-Shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Simple-Online-Shop&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/matinmonshizadeh/tindog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=tindog&hide_border=true&theme=gotham" />
+<a href="https://github.com/matinmonshizadeh/Pseudo-Instagram">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Pseudo-Instagram&hide_border=true&theme=gotham" />
 </a>
 
-<a href="https://github.com/matinmonshizadeh/x86-Assembler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=x86-Assembler&hide_border=true&theme=gotham" />
-</a>
 
-<a href="https://github.com/matinmonshizadeh/Guessing-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Guessing-Game&hide_border=true&theme=gotham" />
-</a>
+
+
 
 </p>
 
