@@ -1,12 +1,12 @@
 # Hey!! Great to see you here!👋
 
-* 📖 Computer Engineering Student at Shiraz University.
+*  Computer Engineering Student at Shiraz University.
 
-* 🧑🏻‍💻 My favorite programming languages is python.
+*  My favorite programming languages is python.
 
-* 💡 I like to try different technologies in computer science.  
+*  I like to try different technologies in computer science.  
 
-* 💻 Currently learning Machine Learning.
+*  Currently learning Machine Learning.
 
 When I am not coding, you'll find me lifting weights in the gym. Find out more about me & feel free to connect with me here:
 
