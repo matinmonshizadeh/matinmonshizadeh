@@ -1,148 +1,15 @@
-# Hey!! Great to see you here!👋
+# Matin Monshizadeh
 
-*  Computer Engineering Student at Shiraz University.
+MSc student in Artificial Intelligence at the University of Bologna, working in **computer vision** and **computer graphics**.
 
-*  My favorite programming languages is python.
+Previously Junior Computer Vision & Graphics Engineer at Deed Asia Development Group (3D roof reconstruction from aerial imagery). BSc in Computer Engineering, Shiraz University (2024).
 
-*  I like to try different technologies in computer science.  
+🔎 **Currently:** coursework and hands-on projects across vision and graphics, exploring the area before going deep on one problem.
 
-*  Currently learning Machine Learning.
+📍 **Based in Bologna, Italy** · open to computer vision / graphics internships and research collaborations in Europe.
 
-When I am not coding, you'll find me lifting weights in the gym. Find out more about me & feel free to connect with me here:
+**Tech I work with:** Python · C++ · PyTorch · TensorFlow · OpenCV · OpenGL · Open3D · NumPy
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/matin-monshizadeh-b120b9220/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-        <a href="mailto:matinmonshizadeh@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+When I'm not coding, you'll find me lifting weights in the gym.
 
----
-
-## ⚡ Tech Stack
-
-### 🚀 Languages
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧩 Libraries & Framework
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 🧑🏻‍💻 Tools & Platform
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=FFD43B)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-## 📈 Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=matinmonshizadeh&show_icons=true&hide_border=true&theme=gotham" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=matinmonshizadeh&hide_border=true&theme=gotham" />
-</p>
-
-## 🎓 Favorite Education sites
-
-- ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-- ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-- ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-- ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-
-## 🔝 Most used languages
-
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matinmonshizadeh&layout=compact&hide_border=true&theme=gotham" />
-
----
-
-## 📕 Pinned Repositories
-
-<p align="center">
-
-<a href="https://github.com/matinmonshizadeh/Diabetes-Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Diabetes-Predictor&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Image-Compression-Huffman-coding-technique">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Image-Compression-Huffman-coding-technique&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Sudoku-Solver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Sudoku-Solver&hide_border=true&theme=gotham" />
-</a>
- 
-<a href="https://github.com/matinmonshizadeh/Monster-Slayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Monster-Slayer&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Tic-Tac-Toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Tic-Tac-Toe&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Smart-Home">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Smart-Home&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Simon-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Simon-Game&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Drum-Kit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Drum-Kit&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Simple-Online-Shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Simple-Online-Shop&hide_border=true&theme=gotham" />
-</a>
-
-<a href="https://github.com/matinmonshizadeh/Pseudo-Instagram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=matinmonshizadeh&repo=Pseudo-Instagram&hide_border=true&theme=gotham" />
-</a>
-
-
-
-
-
-</p>
-
-
----
-
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-
-  
-  
-  
-  
+📫 [LinkedIn](https://www.linkedin.com/in/matin-monshizadeh/) · [Email](mailto:matinmonshizadeh@gmail.com) · [ArtStation](https://www.artstation.com/matinmonshizadeh) · [Website](https://matinmonshizadeh.com/)
