@@ -2,7 +2,7 @@
 
 MSc student in Artificial Intelligence at the University of Bologna, working in **computer vision** and **computer graphics**.
 
-Previously Junior Computer Vision & Graphics Engineer at Deed Asia Development Group (3D roof reconstruction from aerial imagery). BSc in Computer Engineering, Shiraz University (2024).
+Previously Junior Computer Vision R&D Engineer at Deed Asia Development Group (3D roof reconstruction from aerial imagery). BSc in Computer Engineering, Shiraz University (2024).
 
 🔎 **Currently:** coursework and hands-on projects across vision and graphics, exploring the area before going deep on one problem.
 
