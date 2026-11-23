@@ -8,7 +8,7 @@ Previously Junior Computer Vision R&D Engineer at Deed Asia Development Group (3
 
 📍 **Based in Bologna, Italy** · open to computer vision / graphics internships and research collaborations in Europe.
 
-**Tech I work with:** Python · C++ · PyTorch · TensorFlow · OpenCV · OpenGL · Open3D · NumPy
+**Tech I work with:** Python · C++ · PyTorch · TensorFlow · OpenCV · OpenGL · Open3D · NumPy · Cuda
 
 When I'm not coding, you'll find me lifting weights in the gym.
 
